@@ -1,0 +1,34 @@
+﻿variable;definition;formule;unite;source;origine
+region;Région administrative (13 anciennes régions);Texte normalisé en majuscules (HAUT-BASSINS devenu HAUTS-BASSINS);texte;DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;toutes les feuilles
+annee_debut;Année de rentrée de l'année scolaire (2015 = 2015/2016);"Extraite du libellé de colonne ; CEP (année civile) décalé d'un an";année;DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;toutes les feuilles
+effectifs_F;Effectifs d'élèves du primaire (filles);Valeur publiée;élèves;DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil1
+effectifs_G;Effectifs d'élèves du primaire (garçons);Valeur publiée;élèves;DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil1
+effectifs_T;Effectifs d'élèves du primaire (ensemble);Valeur publiée;élèves;DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil1
+cp1_F;Nouveaux inscrits au CP1 (filles);Valeur publiée;élèves;DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil5
+cp1_G;Nouveaux inscrits au CP1 (garçons);Valeur publiée;élèves;DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil5
+cp1_T;Nouveaux inscrits au CP1 (ensemble);Valeur publiée;élèves;DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil5
+tba_F;Taux brut d'admission au CP1 (définition à confirmer dans la publication) (filles);Valeur publiée;% (à confirmer);DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil6
+tba_G;Taux brut d'admission au CP1 (définition à confirmer dans la publication) (garçons);Valeur publiée;% (à confirmer);DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil6
+tba_T;Taux brut d'admission au CP1 (définition à confirmer dans la publication) (ensemble);Valeur publiée;% (à confirmer);DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil6
+tbs_F;Taux brut de scolarisation au primaire (définition à confirmer) (filles);Valeur publiée;% (à confirmer);DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil7
+tbs_G;Taux brut de scolarisation au primaire (définition à confirmer) (garçons);Valeur publiée;% (à confirmer);DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil7
+tbs_T;Taux brut de scolarisation au primaire (définition à confirmer) (ensemble);Valeur publiée;% (à confirmer);DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil7
+achev_F;Taux d'achèvement du primaire (définition à confirmer) (filles);Valeur publiée;% (à confirmer);DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil8
+achev_G;Taux d'achèvement du primaire (définition à confirmer) (garçons);Valeur publiée;% (à confirmer);DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil8
+achev_T;Taux d'achèvement du primaire (définition à confirmer) (ensemble);Valeur publiée;% (à confirmer);DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil8
+cep_F;Résultats au CEP (indicateur à confirmer : taux de réussite) (filles);Valeur publiée;% (à confirmer);DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil9
+cep_G;Résultats au CEP (indicateur à confirmer : taux de réussite) (garçons);Valeur publiée;% (à confirmer);DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil9
+cep_T;Résultats au CEP (indicateur à confirmer : taux de réussite) (ensemble);Valeur publiée;% (à confirmer);DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil9
+ecoles_prive;Nombre d'écoles primaires (privées);Valeur publiée;écoles;DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil13
+ecoles_public;Nombre d'écoles primaires (publiques);Valeur publiée;écoles;DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil13
+ecoles_total;Nombre d'écoles primaires (total);Valeur publiée;écoles;DGESS, Ministère de l'Éducation nationale, Données statistiques préscolaire et primaire 2016-2025;Feuil13
+ips_tba;Indice de parité filles/garçons à l'admission;tba_F / tba_G;ratio;Calculée;Variable dérivée
+ips_achev;Indice de parité filles/garçons à l'achèvement (>1 : filles devant);achev_F / achev_G;ratio;Calculée;Variable dérivée
+ecart_fg_achev;Écart d'achèvement filles moins garçons;achev_F - achev_G;points;Calculée;Variable dérivée
+eleves_par_ecole;Élèves par école;effectifs_T / ecoles_total;élèves/école;Calculée;Variable dérivée
+part_prive;Part des écoles privées;ecoles_prive / ecoles_total;proportion;Calculée;Variable dérivée
+var_ecoles_pct;Variation annuelle du nombre d'écoles (fermetures si négative);(ecoles_total(t) / ecoles_total(t-1) - 1) x 100;%;Calculée;Variable dérivée
+var_effectifs_pct;Variation annuelle des effectifs;(effectifs_T(t) / effectifs_T(t-1) - 1) x 100;%;Calculée;Variable dérivée
+var_achev;Variation annuelle de l'achèvement;achev_T(t) - achev_T(t-1);points;Calculée;Variable dérivée
+ecart_tba_achev;Écart entre admission et achèvement (signal de perte en cours de cycle);tba_T - achev_T;points;Calculée;Variable dérivée
+choc_ecoles;Indicateur de fermetures massives d'écoles (seuil de 10 % à justifier);var_ecoles_pct < -10;booléen;Calculée;Variable dérivée

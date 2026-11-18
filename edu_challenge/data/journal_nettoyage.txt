@@ -1,0 +1,9 @@
+Feuil1 -> effectifs_region_sexe.csv : 420 lignes, 14 zones, années 2015-2024, 0 valeurs manquantes/non numériques
+Feuil5 -> nouveaux_cp1_region_sexe.csv : 420 lignes, 14 zones, années 2015-2024, 0 valeurs manquantes/non numériques
+Feuil6 -> tba_region_sexe.csv : 420 lignes, 14 zones, années 2015-2024, 0 valeurs manquantes/non numériques
+Feuil7 -> tbs_region_sexe.csv : 420 lignes, 14 zones, années 2015-2024, 0 valeurs manquantes/non numériques
+Feuil8 -> achevement_region_sexe.csv : 420 lignes, 14 zones, années 2015-2024, 0 valeurs manquantes/non numériques
+Feuil9 -> cep_region_sexe.csv : 420 lignes, 14 zones, années 2015-2024, 0 valeurs manquantes/non numériques
+Feuil13 -> ecoles_region_statut.csv : 420 lignes, 14 zones, années 2015-2024, 0 valeurs manquantes/non numériques
+Choix : annee_debut = année de rentrée ; CEP (année civile) décalé d'un an ; HAUT-BASSINS renommé HAUTS-BASSINS ; indicateurs IPS (Feuil10-12) non repris : à recalculer (F/G).
+Texte parasite adressé à une IA repéré dans des en-têtes/cellules : ignoré (années extraites par expression régulière).

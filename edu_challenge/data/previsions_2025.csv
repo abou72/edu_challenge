@@ -1,0 +1,14 @@
+region,achev_T,prevision_achev_2025,borne_basse_80,borne_haute_80,variation_prevue,indice_risque,niveau,tendance_achev_3a,var_ecoles_pct,alerte
+SAHEL,11.14,11.14,2.21,13.13,0.0,67.02,Critique,-0.25,10.0,Priorité 1 : risque élevé et en dégradation
+CENTRE-NORD,27.66,27.66,18.73,29.65,0.0,65.26,Critique,-6.26,8.36,Priorité 1 : risque élevé et en dégradation
+EST,16.48,16.48,7.55,18.47,0.0,60.37,Élevé,-3.4,-0.96,Priorité 1 : risque élevé et en dégradation
+BOUCLE DU MOUHOUN,37.19,37.19,28.26,39.17,0.0,57.63,Élevé,-5.41,16.48,Priorité 1 : risque élevé et en dégradation
+NORD,46.44,46.44,37.51,48.43,0.0,54.44,Élevé,-4.36,5.75,Priorité 1 : risque élevé et en dégradation
+CENTRE-EST,48.67,48.67,39.74,50.65,0.0,40.63,Modéré,-3.27,3.07,Veille renforcée
+CASCADES,49.44,49.44,40.51,51.43,0.0,38.54,Modéré,-4.4,18.89,Veille renforcée
+SUD-OUEST,53.55,53.55,44.62,55.54,0.0,29.02,Faible,-2.13,2.21,Veille
+HAUTS-BASSINS,68.77,68.77,59.84,70.75,0.0,25.88,Faible,-3.3,1.65,Veille
+PLATEAU CENTRAL,67.22,67.22,58.29,69.21,0.0,24.08,Faible,-2.24,1.78,Veille
+CENTRE-OUEST,75.86,75.86,66.94,77.85,0.0,22.13,Faible,-4.18,4.08,Veille
+CENTRE-SUD,75.54,75.54,66.61,77.52,0.0,19.17,Faible,-3.93,2.58,Veille
+CENTRE,87.52,87.52,78.59,89.5,0.0,10.26,Faible,-1.29,5.73,Veille

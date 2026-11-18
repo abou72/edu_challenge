@@ -1,0 +1,13 @@
+modele,annee_cible,MAE,n,RMSE
+naif,2022,7.24,13,
+tendance_3a,2022,7.009,13,
+ridge_panel,2022,7.866,13,
+naif,2023,2.421,13,
+tendance_3a,2023,4.098,13,
+ridge_panel,2023,3.128,13,
+naif,2024,3.355,13,
+tendance_3a,2024,4.607,13,
+ridge_panel,2024,3.271,13,
+naif,2022-2024,4.339,39,6.02
+tendance_3a,2022-2024,5.238,39,6.744
+ridge_panel,2022-2024,4.755,39,6.799

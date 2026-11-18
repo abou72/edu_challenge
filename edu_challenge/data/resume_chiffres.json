@@ -1,0 +1,44 @@
+{
+  "meilleur_modele": "naif",
+  "mae_par_modele": {
+    "naif": 4.34,
+    "tendance_3a": 5.24,
+    "ridge_panel": 4.75
+  },
+  "intervalle_80_points": [
+    -8.93,
+    1.99
+  ],
+  "top5_2024": [
+    {
+      "region": "SAHEL",
+      "indice_risque": 67.0,
+      "niveau": "Critique"
+    },
+    {
+      "region": "CENTRE-NORD",
+      "indice_risque": 65.3,
+      "niveau": "Critique"
+    },
+    {
+      "region": "EST",
+      "indice_risque": 60.4,
+      "niveau": "Élevé"
+    },
+    {
+      "region": "BOUCLE DU MOUHOUN",
+      "indice_risque": 57.6,
+      "niveau": "Élevé"
+    },
+    {
+      "region": "NORD",
+      "indice_risque": 54.4,
+      "niveau": "Élevé"
+    }
+  ],
+  "rho_spearman_poids_aleatoires_moyen": 0.858,
+  "rho_spearman_poids_aleatoires_p5": 0.522,
+  "top5_identique_pct_des_tirages": 71.1,
+  "achev_moyen_regions_2015": 57.8,
+  "achev_moyen_regions_2024": 51.2
+}
